@@ -1,0 +1,15 @@
+hello  demo file 
+
+echo "# Demo_01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/adeshdevkar-ad/Demo_01.git
+git push -u origin main
+
+hrllo 
+
+
+git config --global user.email "adeshdevkar.ad@gmail.com"
+  git config --global user.name "adeshdevkar-ad"
